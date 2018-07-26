@@ -1,0 +1,34 @@
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    width: 100%;
+    height: 60vh;
+    min-height: 600px;
+}
+/*.navbar {*/
+    /*margin-bottom: 0;*/
+/*}*/
+
+.carousel .item {
+    height: 60vh;
+    min-height: 600px;
+
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbo-header {
+    margin-bottom: 50px;
+}
+
+/*.item img {*/
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*height: 50vh;*/
+/*}*/
+
+.logo-image {
+    margin-right: 20px;
+    margin-left: 20px;
+}
